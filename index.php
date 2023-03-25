@@ -16,6 +16,9 @@ $bappi->name = "Sajidur";
 echo $bappi->name;
 
 $munna = new man();
+$munna->age = 20;
+
+echo  $munna->age;
 
 
 
